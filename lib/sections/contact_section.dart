@@ -52,7 +52,7 @@ class ContactSection extends StatelessWidget {
           style: TextStyle(fontSize: 16, height: 1.7, color: Colors.grey.shade700),
         ),
         const SizedBox(height: 24),
-        _row(icon: Icons.location_on, title: 'Address', value: '1246, F block, Shah Rukne Alam Colony, Multan'),
+        _row(icon: Icons.location_on, title: 'Address', value: '246, F block, Shah Rukne Alam Colony, Multan'),
         const SizedBox(height: 14),
         _row(icon: Icons.call, title: 'Phone', value: '+923166558710'),
         const SizedBox(height: 14),
