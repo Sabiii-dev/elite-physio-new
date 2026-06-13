@@ -37366,7 +37366,7 @@ A.FF.prototype={
 K(a){var s=this,r=null,q=A.bm(a,B.b2,t.w).w.a.a<900,p=q?20:60,o=q?50:80,n=t.p
 return A.cw(r,new A.cR(B.cs,q?A.cn(A.b([s.Ld(),B.k4,s.Lx()],n),B.a0,B.A):A.e7(A.b([A.dD(s.Ld(),1),B.k2,A.dD(s.Lx(),1)],n),B.a0,B.ac,B.A),r),B.r,r,r,r,r,r,r,new A.a6(p,o,p,o),r,r,1/0)},
 Ld(){var s=this,r=null
-return A.cn(A.b([B.Sz,B.aH,A.bC("Have questions? Reach out and our team will help you choose the right service.",r,r,r,A.c9(r,r,B.aw,r,r,r,r,r,r,r,r,16,r,r,r,r,1.7,!0,r,r,r,r,r,r,r,r),r,r),B.k5,s.vp(B.mI,"Address","1246, F block, Shah Rukne Alam Colony, Multan"),B.aH,s.vp(B.mH,"Phone","+923166558710"),B.aH,s.vp(B.DI,"Email","muqadasbano7812@gmail.com"),B.aH,s.vp(B.j3,"Hours","Mon\u2013Sat: 12pm\u20137:pm")],t.p),B.a0,B.A)},
+return A.cn(A.b([B.Sz,B.aH,A.bC("Have questions? Reach out and our team will help you choose the right service.",r,r,r,A.c9(r,r,B.aw,r,r,r,r,r,r,r,r,16,r,r,r,r,1.7,!0,r,r,r,r,r,r,r,r),r,r),B.k5,s.vp(B.mI,"Address","246, F block, Shah Rukne Alam Colony, Multan"),B.aH,s.vp(B.mH,"Phone","+923166558710"),B.aH,s.vp(B.DI,"Email","muqadasbano7812@gmail.com"),B.aH,s.vp(B.j3,"Hours","Mon\u2013Sat: 12pm\u20137:pm")],t.p),B.a0,B.A)},
 vp(a,b,c){var s=null,r=t.p
 return A.e7(A.b([A.aom(B.d9,A.qg(a,B.ax,s,20),20),B.y4,A.dD(A.cn(A.b([A.bC(b,s,s,s,B.cQ,s,s),B.MZ,A.bC(c,s,s,s,A.c9(s,s,B.aw,s,s,s,s,s,s,s,s,s,s,s,s,s,1.5,!0,s,s,s,s,s,s,s,s),s,s)],r),B.a0,B.A),1)],r),B.a0,B.ac,B.A)},
 Lx(){var s=null,r=t.p
